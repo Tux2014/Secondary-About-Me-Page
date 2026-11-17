@@ -1,3 +1,9 @@
+.stuff {
+    background-color: rgb(24, 81, 100);
+    padding: 20px;
+    text-align: center;
+}
+
 .button {
     background-color: lightblue;
     padding: 20px;
